@@ -1,4 +1,48 @@
 {
+    "getAccessCode" : {
+    "AccessCode": "A10012yIV2-MEEfkk7b7oYZqtulwNHv2dAFLv7T2guZEpjwBMHJoU-KxQihXVV10unFYbOUJ9Ob58oALLxn88_rzWDJhyq1-qW_hZ-xYjS3kdsCSNLtFHVESfDRVPWZqisLto",
+    "Customer": {
+        "TokenCustomerID": null,
+        "Reference": "A12345",
+        "Title": "Mr.",
+        "FirstName": "John",
+        "LastName": "Smith",
+        "CompanyName": "Demo Shop 123",
+        "JobDescription": "Developer",
+        "Street1": "Level 5",
+        "Street2": "369 Queen Street",
+        "City": "Sydney",
+        "State": "NSW",
+        "PostalCode": "2000",
+        "Country": "au",
+        "Email": "",
+        "Phone": "09 889 0986",
+        "Mobile": "09 889 6542",
+        "Comments": "",
+        "Fax": "",
+        "Url": "",
+        "CardNumber": "",
+        "CardStartMonth": "",
+        "CardStartYear": "",
+        "CardIssueNumber": "",
+        "CardName": "",
+        "CardExpiryMonth": "",
+        "CardExpiryYear": "",
+        "IsActive": false
+    },
+    "Payment": {
+        "TotalAmount": 1000,
+        "InvoiceNumber": "Inv 21540",
+        "InvoiceDescription": "Individual Invoice Description",
+        "InvoiceReference": "513456",
+        "CurrencyCode": "AUD"
+    },
+    "FormActionURL": "https://secure-au.sandbox.ewaypayments.com/AccessCode/A10012yIV2-MEEfkk7b7oYZqtulwNHv2dAFLv7T2guZEpjwBMHJoU-KxQihXVV10unFYbOUJ9Ob58oALLxn88_rzWDJhyq1-qW_hZ-xYjS3kdsCSNLtFHVESfDRVPWZqisLto",
+    "CompleteCheckoutURL": null,
+    "Errors": null
+}
+}
+{
     "AccessCode": "A10012yIV2-MEEfkk7b7oYZqtulwNHv2dAFLv7T2guZEpjwBMHJoU-KxQihXVV10unFYbOUJ9Ob58oALLxn88_rzWDJhyq1-qW_hZ-xYjS3kdsCSNLtFHVESfDRVPWZqisLto",
     "Customer": {
         "TokenCustomerID": null,
